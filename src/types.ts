@@ -7,4 +7,3 @@ export interface Task {
   status: TaskStatus;
   createdAt: number;
 }
-
